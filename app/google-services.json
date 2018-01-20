@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "404650621678",
+    "firebase_url": "https://bada-b9111.firebaseio.com",
+    "project_id": "bada-b9111",
+    "storage_bucket": "bada-b9111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404650621678:android:ee08043d9ba7ddbc",
+        "android_client_info": {
+          "package_name": "org.techtown.bada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404650621678-ogjlombs77b4lier6ogvk86g9n8bgsst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techtown.bada",
+            "certificate_hash": "b33780d3b6f5b7ec5f05e998ab6b257e13eb5f6e"
+          }
+        },
+        {
+          "client_id": "404650621678-unjcv710hd3ovvss0dgkca6pg3t8e5or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjot2AL5RVIZJ0XqYmZ_EozYpBOUJJIvY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404650621678-unjcv710hd3ovvss0dgkca6pg3t8e5or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
